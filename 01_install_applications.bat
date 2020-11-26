@@ -6,3 +6,5 @@ call scoop bucket add java
 call scoop install adopt8-hotspot
 call scoop install python
 call scoop install gcc
+call scoop install notepadplusplus
+call scoop install zip
