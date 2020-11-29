@@ -7,4 +7,6 @@ code --install-extension ms-vscode-remote.remote-ssh-edit
 code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code --install-extension ms-vscode.cpptools
+code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension redhat.java
+code --install-extension vscodevim.vim
